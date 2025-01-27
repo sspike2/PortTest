@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-PortfolioTest-0.1.0";
+const cacheName = "SushrutSingatkar-Portfolio-0.1.0";
 const contentToCache = [
     "Build/PortTest.loader.js",
     "Build/PortTest.framework.js.unityweb",
